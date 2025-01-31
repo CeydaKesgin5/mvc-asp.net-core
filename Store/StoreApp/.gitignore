@@ -1,0 +1,33 @@
+# Build Folders
+bin
+obj
+
+# User-specific files
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Visual Studio temporary files, caches, and logs
+.vs
+.vscode
+.log
+
+# Compiled files
+.dll
+.exe
+.pdb
+.cache
+
+# Other unnecessary files
+.tmp
+.ide
+.DS_Store
+
+# OS generated files
+Thumbs.db
+desktop.ini
+
+Documentation-Project.sln
+
+bin
