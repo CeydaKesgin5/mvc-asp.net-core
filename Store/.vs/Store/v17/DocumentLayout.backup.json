@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -35,15 +48,54 @@
         },
         {
           "DockedWidth": 1194,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T17:33:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "StoreApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:30:54.856Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T15:56:01.599Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,6 +4,7 @@ using Entities.Models;
  public class RepositoryContext: DbContext
     {
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categorys { get; set; }
 
 
         public RepositoryContext(DbContextOptions<RepositoryContext> options)
@@ -23,5 +24,14 @@ using Entities.Models;
               new Product(){ ProductId=5, ProductName = "Deck", Price=5_000}
 
             );
+
+            modelBuilder.Entity<Category>().HasData(
+              new Category() { CategoryId = 1, CategoryName = "Book" },
+              new Category() { CategoryId = 2, CategoryName = "Electronic" }
+            );
+
+
+
+
         }
-    }
+}

@@ -1,6 +1,9 @@
 using Entities.Models;
+
 namespace Repositories.Contracts{
-    public interface IProductRepository: IRepositoyBase<Product>{
+    public interface IProductRepository: IRepositoryBase<Product>{
             IQueryable<Product> GetAllProducts(bool trackChanges);
+        public Product? GetOneProduct(int id, bool trackChanges);
+
     }
 }
