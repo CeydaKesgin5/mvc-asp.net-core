@@ -1,17 +1,26 @@
 @model IQueryable<Product>
 
+<div class="row">
+       <div class="col-md-6"> @await Component.InvokeAsync("CategoriesMenu") </div>
+       <div class="col-md-6">
+        <div class="row my-3">
+            @foreach (Product product in Model)
+            {
+                <div class="col-sm-12 col-md-4 col-lg-3 my-3">
+                    <partial name="_ProductCard" model="@product" />
+                </div>
+
+            }
+        </div>
+
+    </div>
+
+</div>
+
 @* @section Footer{
     <div>
         Footer for only Index
     </div>
 } *@
-<div class="row my-3">
-     @foreach(Product product in Model){
-        <div class="col-sm-12 col-md-4 col-lg-3 my-3">
-            <partial name="_ProductCard" model="@product"/>
-        </div>
-        
-    }
-</div>
-   
+
 

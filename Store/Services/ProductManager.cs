@@ -3,7 +3,6 @@ using Services.Contracts;
 using Store.Repositories.Contracts;
 
 namespace Services;
-
 public class ProductManager : IProductService
 {
     private readonly IRepositoryManager _repositoryManager;
@@ -11,6 +10,12 @@ public class ProductManager : IProductService
     public ProductManager(IRepositoryManager repositoryManager)
     {
         _repositoryManager = repositoryManager;
+    }
+
+    public void CreateProduct(Product product)
+    {
+        _repositoryManager.Product.Create(product);
+        _repositoryManager.Save();
     }
 
     public IEnumerable<Product> GetAllProducts(bool trackChanges)

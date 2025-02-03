@@ -1,5 +1,4 @@
-﻿
-using Entities.Models;
+﻿using Entities.Models;
 
 namespace Services.Contracts
 {
@@ -7,5 +6,7 @@ namespace Services.Contracts
     {
         IEnumerable<Product> GetAllProducts(bool trackChanges);
         Product? GetOneProduct(int id, bool trackChanges);
+
+        void CreateProduct(Product product);    
     }
 }

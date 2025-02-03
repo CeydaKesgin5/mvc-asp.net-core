@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StoreApp"
+    "\\StoreApp",
+    "\\StoreApp\\Views",
+    "\\StoreApp\\Views\\Shared"
   ],
   "SelectedNode": "\\Store.sln",
   "PreviewInSolutionExplorer": false

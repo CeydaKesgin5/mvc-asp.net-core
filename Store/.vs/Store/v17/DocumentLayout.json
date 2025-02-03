@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,16 +11,168 @@
       "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\shared\\components\\categoriesmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\components\\categoriesmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\components\\categoriesmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\components\\categoriesmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\components\\productsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\components\\productsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8BE888-D74E-4202-B282-49D6D56C0836}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725C77E-C372-4A0C-AA2C-D3EFBE95E0A7}|Entities\\Entities.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725C77E-C372-4A0C-AA2C-D3EFBE95E0A7}|Entities\\Entities.csproj|solutionrelative:entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8725C77E-C372-4A0C-AA2C-D3EFBE95E0A7}|Entities\\Entities.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8725C77E-C372-4A0C-AA2C-D3EFBE95E0A7}|Entities\\Entities.csproj|solutionrelative:entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F50A8F3A-CEF3-4DAB-A1B6-94EDC3BB3817}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|c:\\users\\ceydak\\desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\store\\storeapp\\areas\\admin\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BECCB-D0C2-4797-AA44-B642ED8200F9}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +181,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 1048,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -79,8 +207,8 @@
           ]
         },
         {
-          "DockedWidth": 1194,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 346,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,111 +216,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "StoreApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:39:04.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Program.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Program.cs",
-              "RelativeToolTip": "StoreApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:36:22.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ServiceManager.cs",
-              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ServiceManager.cs",
-              "RelativeToolTip": "Services\\ServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:33:11.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IServiceManager.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\IServiceManager.cs",
-              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\IServiceManager.cs",
-              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:32:21.406Z",
+              "WhenOpened": "2025-02-03T17:49:04.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "Services\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\CategoryManager.cs",
-              "RelativeToolTip": "Services\\CategoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:28:19.777Z",
+              "WhenOpened": "2025-02-03T17:47:22.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Services\\Contracts\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\ICategoryService.cs",
-              "RelativeToolTip": "Services\\Contracts\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:25:11.012Z",
+              "WhenOpened": "2025-02-03T17:49:02.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ProductManager.cs",
-              "RelativeDocumentMoniker": "Services\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ProductManager.cs",
-              "RelativeToolTip": "Services\\ProductManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T18:20:09.879Z",
+              "WhenOpened": "2025-02-03T17:47:20.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\Contracts\\IProductService.cs",
               "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\IProductService.cs",
               "RelativeToolTip": "Services\\Contracts\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T18:18:16.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ProductManager.cs",
+              "RelativeToolTip": "Services\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:20:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:27:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T20:44:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T20:58:04.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:22:52.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:29:42.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:29:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Program.cs",
+              "RelativeToolTip": "StoreApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:36:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Get.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\Get.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Product\\Get.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T11:17:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T11:17:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T15:56:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Navbar.cshtml",
               "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
               "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
@@ -200,12 +428,203 @@
               "RelativeToolTip": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T17:33:34.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T18:33:46.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T09:30:12.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Components\\CategoriesMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Components\\CategoriesMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Components\\CategoriesMenuViewComponent.cs",
+              "RelativeToolTip": "StoreApp\\Components\\CategoriesMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:07:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T18:28:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\Components\\CategoriesMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\Components\\CategoriesMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Shared\\Components\\CategoriesMenu\\Default.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Shared\\Components\\CategoriesMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T18:29:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductSummaryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Components\\ProductSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Components\\ProductSummaryViewComponent.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Components\\ProductSummaryViewComponent.cs",
+              "RelativeToolTip": "StoreApp\\Components\\ProductSummaryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:03:50.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ProductCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\_ProductCard.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\_ProductCard.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Product\\_ProductCard.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Product\\_ProductCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T09:33:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T18:14:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T18:14:17.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:25:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\CategoryManager.cs",
+              "RelativeToolTip": "Services\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:28:19.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:33:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:47:26.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:39:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:49:27.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "Entities\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:49:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Entities\\Models\\Category.cs",
+              "RelativeToolTip": "Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:49:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "StoreApp\\Controllers\\CategoryController.cs",
@@ -217,19 +636,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:47:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:47:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:49:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\Repositories\\Contracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:49:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T15:56:01.599Z"
+              "WhenOpened": "2025-02-03T15:52:48.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:30:23.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:24:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T15:20:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CeydaK\\Desktop\\zy-mvc-asp.net-core\\mvc-asp.net-core\\Store\\StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:33:15.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

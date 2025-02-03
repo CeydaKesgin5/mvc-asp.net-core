@@ -1,6 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using Entities.Models;
-using Store.Repositories.Contracts;
 using Services.Contracts;
 
 namespace StoreApp.Controllers{
