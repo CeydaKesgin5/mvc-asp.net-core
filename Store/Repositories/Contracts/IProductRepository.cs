@@ -6,6 +6,6 @@ namespace Repositories.Contracts{
         public Product? GetOneProduct(int id, bool trackChanges);
 
         void CreateProduct(Product product);
-
+        void DeleteOneProduct(Product product);
     }
 }
