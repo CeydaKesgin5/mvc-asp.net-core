@@ -12,6 +12,7 @@
         <thead>
             <tr>
                 <th>Id</th>
+                <th>Image Url</th>
                 <th>ProductName</th>
                 <th>Price</th>
                 <th>Operations</th>
@@ -22,6 +23,10 @@
             @foreach(var item in Model){
                 <tr>
                     <td>@item.ProductId</td>
+                    <td> 
+                        <img class="border border-light rounded-circle" src="@item?.ImageUrl" alt="@item?.ProductName" width="50"/>
+
+                    </td>
                     <td>@item.ProductName</td>
                     <td>@item.Price.ToString("c")</td>
                     <td>
