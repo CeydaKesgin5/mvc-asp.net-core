@@ -1,8 +1,8 @@
-# MVC Web Application
+## MVC Web Application
 
 This project is a web application built using the **ASP.NET Core MVC** framework. It follows the **Model-View-Controller (MVC)** architecture to create a structured and maintainable web application.
 
-## Features
+### Features
 - **Modular MVC Architecture:** Clean separation of concerns using Models, Views, and Controllers.
 - **Database-Driven Development:** Supports **SQLite** with **Entity Framework Core** and **Repository Pattern**.
 - **Dynamic Layouts:** Uses **Bootstrap**, **Grids**, and **Partial Views** for responsive UI.
@@ -14,7 +14,7 @@ This project is a web application built using the **ASP.NET Core MVC** framework
 - **Admin Panel:** Includes a fully functional admin dashboard for managing content.
 - **File Uploads:** Handles image uploads using `IFormFile`.
 
-## Technologies Used
+### Technologies Used
 - **Backend Framework:** ASP.NET Core MVC (.NET 9.0)
 - **Database:** SQLite
 - **Database Migration:** Entity Framework Core Migrations
@@ -22,8 +22,7 @@ This project is a web application built using the **ASP.NET Core MVC** framework
 - **Authentication & Authorization:** ASP.NET Identity
 - **API Testing:** Postman
 
-## Prerequisites
-Ensure the following software is installed on your system:
+
 
 - .NET 9.0
 - SQLite
