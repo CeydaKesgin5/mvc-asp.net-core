@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StoreApp",
     "\\StoreApp\\Views",
+    "\\StoreApp\\Views\\Product",
     "\\StoreApp\\Views\\Shared"
   ],
   "SelectedNode": "\\Store.sln",

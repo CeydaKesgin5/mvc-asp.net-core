@@ -1,3 +1,4 @@
+using Entities.Models;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 using Repositories.Contracts;
@@ -8,6 +9,9 @@ using Store.Repositories.Contracts;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
+
+
 builder.Services.AddDbContext<RepositoryContext>(options=>
 {
     options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"),
@@ -21,6 +25,8 @@ builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped< IServiceManager, ServiceManager>();
 builder.Services.AddScoped< IProductService, ProductManager>();
 builder.Services.AddScoped<ICategoryService, CategoryManager>();
+
+builder.Services.AddSingleton<Cart>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
@@ -39,6 +45,7 @@ app.UseRouting();
 //        pattern: "Admin/{controller=Dashboard}/{action=Index}/{id?}"
 //        );
 //    endpoints.MapControllerRoute("default", "{controller=Home}/{ action = Index}/{id?}");
+//    endpoints.MapRazorPages();
 //});
 
 app.MapAreaControllerRoute(
@@ -52,5 +59,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}"
 );
 
+app.MapRazorPages();
 
 app.Run();
