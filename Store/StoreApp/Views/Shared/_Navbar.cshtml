@@ -28,7 +28,10 @@
 
             </li>
             <li class="nav-item">
-                <a class="nav-link" aria-current="page" asp-area="" asp-page="/cart">Cart</a>
+                <a class="nav-link" aria-current="page" asp-area="" asp-page="/cart">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                    Cart (@await Component.InvokeAsync("CartSummary"))
+                </a>
             </li>
         </ul>
     </div>

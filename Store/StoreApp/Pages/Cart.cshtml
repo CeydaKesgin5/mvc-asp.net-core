@@ -13,6 +13,7 @@ Cart (@Model.Cart.Lines.Count())
 
         </tr>
     </thead>
+    <table>
     <tbody>
         @foreach(var line in Model.Cart?.Lines ?? Enumerable.Empty<CartLine>()){
             <tr>
@@ -43,4 +44,12 @@ Cart (@Model.Cart.Lines.Count())
             </td>
         </tr>
     </tfoot>
+    </table>
+    <div class="text-center my-3">
+        <div class="btn-group">
+            <a class="btn btn-primary" href="@Model?.ReturnUrl"> Continue Shopping</a>
+
+        </div>
+
+    </div>
 </div> 

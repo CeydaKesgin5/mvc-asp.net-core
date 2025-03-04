@@ -9,7 +9,7 @@ public class RepositoryContext: DbContext
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categorys { get; set; }
 
-
+        public DbSet<Order> Orders { get; set; }
         public RepositoryContext(DbContextOptions<RepositoryContext> options)
         :base(options)
         {
