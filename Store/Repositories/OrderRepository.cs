@@ -1,5 +1,7 @@
 ﻿using Entities.Models;
 using Repositories.Contracts;
+using Microsoft.EntityFrameworkCore;
+
 namespace Repositories
 {
     public class OrderRepository : RepositoryBase<Order>, IOrderRepository
@@ -33,7 +35,7 @@ namespace Repositories
 
         public void SaveOrder(Order order)
         {
-            _context.AttachRange(order.Lines.Select(l=>l.Product);
+            _context.AttachRange(order.Lines.Select(l=>l.Product));
             if(order.OrderId==0)
                 _context.Orders.Add(order);
             _context.SaveChanges();

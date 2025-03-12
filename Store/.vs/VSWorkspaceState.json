@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\StoreApp",
+    "\\StoreApp\\Areas",
+    "\\StoreApp\\Areas\\Admin",
+    "\\StoreApp\\Areas\\Admin\\Views",
+    "\\StoreApp\\Areas\\Admin\\Views\\Order",
     "\\StoreApp\\Views",
     "\\StoreApp\\Views\\Product",
     "\\StoreApp\\Views\\Shared"

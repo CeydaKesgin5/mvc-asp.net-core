@@ -36,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Areas/Admin/Views/Order/_OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX09yZGVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,8 +76,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Pages/Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Pages/Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Pages/_ViewImports.cshtml]
@@ -88,6 +104,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Product/Get.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -96,12 +116,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Product/_ProductCard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdENhcmQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Shared/Components/CategoriesMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc01lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Shared/Components/Showcase/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvd2Nhc2VcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Shared/_Layout.cshtml]
@@ -110,6 +130,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/Shared/_ProductCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0Q2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/CeydaK/Desktop/zy-mvc-asp.net-core/mvc-asp.net-core/Store/StoreApp/Views/_ViewImports.cshtml]
