@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Entities.Models;
 using Repositories.Config;
 using System.Reflection;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-public class RepositoryContext: DbContext
+public class RepositoryContext: IdentityDbContext<IdentityUser>
     {
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categorys { get; set; }

@@ -12,6 +12,7 @@ builder.Services.AddRazorPages();
 //    b=>b.MigrationsAssembly("StoreApp"));
 //});
 builder.Services.ConfigureDbContext(builder.Configuration);
+builder.Services.ConfigureIdentity();
 
 //builder.Services.AddDistributedMemoryCache();
 //builder.Services.AddSession(options =>
