@@ -50,6 +50,11 @@ public class ProductManager : IProductService
         return _repositoryManager.Product.GetAllProductsWithDetails(p);
     }
 
+    public IEnumerable<Product> GetLatestProducts(int n, bool trackChanges)
+    {
+        return _repositoryManager.Product.FindAll(trackChanges).OrderByDescending(prd=>prd.ProductId).Take(n);
+    }
+
     public Product? GetOneProduct(int id, bool trackChanges)
     {
         var product = _repositoryManager.Product.GetOneProduct(id, trackChanges);

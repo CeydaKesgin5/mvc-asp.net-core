@@ -1,19 +1,20 @@
 ﻿@page "/cart"
 @model CartModel
 Cart (@Model.Cart.Lines.Count())
-<div>
+<div class="text-center display-6">
     Cart
-    <thead>
-        <tr>
-            <th>Product</th>
-            <th>Quantity</th>
-            <th>Price</th>
-            <th>Subtotal</th>
-            <th></th>
-
-        </tr>
-    </thead>
     <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Subtotal</th>
+                <th></th>
+
+            </tr>
+        </thead>
+    
     <tbody>
         @foreach(var line in Model.Cart?.Lines ?? Enumerable.Empty<CartLine>()){
             <tr>
