@@ -1,0 +1,33 @@
+﻿
+@if(User.Identity.IsAuthenticated && User.IsInRole("Admin")){
+    <li class="nav-item">
+        <a class="nav-link" aria-current="page" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a>
+
+    </li>
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+
+    <li class="nav-item">
+        <a class="nav-link"
+           aria-current="page"
+           asp-area=""
+           asp-controller="Account"
+           asp-route-returnUrl="@Context.Request.PathAndQuery()" @*nerede olduğumuz *@
+           asp-action="Logout"> Logout</a>
+
+    </li>
+}
+else//authonticate olmadıysa login ekranına yönlendiriliyor.
+{
+    <li class="nav-item">
+        <a class="nav-link"
+           aria-current="page"
+           asp-area=""
+           asp-controller="Account"
+           asp-route-returnUrl="@Context.Request.PathAndQuery()"
+           asp-action="Login"> Login</a>
+
+    </li>
+}

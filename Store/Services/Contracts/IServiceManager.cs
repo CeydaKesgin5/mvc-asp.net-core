@@ -7,5 +7,7 @@
 
         IOrderService OrderService { get; }
 
+        IAuthService AuthService { get; }
+
     }
 }

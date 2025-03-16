@@ -38,6 +38,8 @@ app.UseSession();
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseAuthentication(); //oturum açma iþlemi yapýyor isek Microsoft bize bu ikisini etkinleþtirme iþini Routing ve Endpoint arasýna yazmamýzý önerir.
+app.UseAuthorization();
 
 //app.UseEndpoints(endpoints =>
 //{
@@ -62,6 +64,9 @@ app.MapControllerRoute(
 );
 
 app.MapRazorPages();
+
+
+
 app.ConfigureAndCheckMigration();//migrate update otomatik olarak alýnýr. 
 app.ConfigureLocalization();
 app.Run();
