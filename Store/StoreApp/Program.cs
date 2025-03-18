@@ -2,6 +2,8 @@ using StoreApp.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddControllers();//api desteði
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
@@ -28,6 +30,7 @@ builder.Services.ConfigureRepositoryRegistration();
 
 builder.Services.ConfigureServiceRegistration();
 builder.Services.ConfigureRouting();//urlde lowecase kuralý
+builder.Services.ConfigureApplicationCookie();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
@@ -64,7 +67,7 @@ app.MapControllerRoute(
 );
 
 app.MapRazorPages();
-
+app.MapControllers();
 
 
 app.ConfigureAndCheckMigration();//migrate update otomatik olarak alýnýr. 

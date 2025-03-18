@@ -94,6 +94,9 @@ namespace StoreApp.Controllers
         }
 
 
-
+        public IActionResult AccessDenied([FromQuery(Name ="ReturnUrl")] string returnUrl)
+        {
+            return View();
+        }
     }
 }
