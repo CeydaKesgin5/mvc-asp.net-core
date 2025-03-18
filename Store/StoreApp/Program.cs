@@ -3,7 +3,8 @@ using StoreApp.Infrastructure.Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.AddControllers();//api desteði
+builder.Services.AddControllers().
+    AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);//uyg controllerlarý kullanýrken ilgili referansa da bakacak, presentation kullanýlacaðý bildirildi.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
