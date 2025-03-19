@@ -16,7 +16,7 @@ This project is a web application built using the **ASP.NET Core MVC** framework
 
 ### Technologies Used
 - **Backend Framework:** ASP.NET Core MVC (.NET 9.0)
-- **Database:** SQLite
+- **Database:** SQLite, Microsoft SQL Server
 - **Database Migration:** Entity Framework Core Migrations
 - **Frontend:** Bootstrap, libman, Razor Pages
 - **Authentication & Authorization:** ASP.NET Identity
